@@ -1,4 +1,4 @@
-# 
+# Automatique Open WebUI préréglages. Avec inférence en temps réel et formation de modèles personnalisés — optimisé pour des performances et une efficacité maximales.
 
 
 
